@@ -1,2 +1,2 @@
 # Cryptography
-Cryptography and Network Security Practice Assignments
+Implementation of different encryption techniques in cryptography.
