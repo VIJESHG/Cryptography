@@ -1,5 +1,3 @@
-# Cryptography
-Implementation of different encryption techniques in cryptography.
 ﻿# Vencrypto
 > The universe of encryption techniques.
 
